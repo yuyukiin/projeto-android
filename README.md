@@ -1,27 +1,71 @@
-# História do Mascote do Android
+# 🤖 História do Mascote do Android
 
-## Descrição
+Uma página web informativa e responsiva que apresenta a evolução do mascote do Android, desde sua criação inicial até o icônico **Bugdroid**. O projeto também explora curiosidades sobre o sistema Android, como a tradição de nomear versões com nomes de doces.
 
-Este projeto é uma página web que explora a história do mascote do **Android**. Através de um artigo informativo, o site revela a evolução do mascote, desde sua primeira versão criada por Dan Morrill até o famoso **Bugdroid**, atualmente reconhecido como o símbolo do Android. Além disso, o site compartilha curiosidades sobre o sistema Android, como a nomeação das versões do sistema operacional, que eram baseadas em doces.
+---
+
+## 🧪 Tecnologias Utilizadas
+
+- **HTML5**
+- **CSS3**
+- **JavaScript (Vanilla)**
+- **Flexbox e Grid Layout**
+- **Design Responsivo**
+- Organização semântica com **tags estruturais**
+
+---
+
+
+```md
+## 📁 Estrutura do Projeto
+
+projeto-android/
+├── imagens/                  # Imagens do projeto
+│   └── projeto-android.png
+├── index.html                # Página principal
+├── style.css                 # Estilos
+├── script.js                 # (opcional - para interações simples)
+├── README.md                 # Documentação do projeto
+```
+---
+
+## Preview da Página
+
+![Preview da Página](https://github.com/yuyukiin/projeto-android/blob/main/imagens/projeto-android.png)
+
+---
 
 ## Seções do Site
 
-- **Introdução**: Um breve resumo sobre o Android e o mascote.
-- **A Primeira Versão**: A história da criação inicial do mascote por Dan Morrill em 2007.
-- **Surge um Novo Mascote**: A evolução do mascote com a contribuição de Irina Blok, ilustradora do Google.
-- **Curiosidade sobre as Versões do Android**: Como o Android nomeou suas versões com nomes de doces até a versão 9.0.
-- **Vídeo**: Um vídeo relacionado à história do mascote.
-- **Outros Detalhes**: Informações adicionais sobre as versões do Android e como elas eram nomeadas.
+- **Introdução** — Breve visão sobre o Android e seu mascote  
+- **A Primeira Versão** — Mascote criado por Dan Morrill em 2007  
+- **Novo Mascote** — Evolução com a designer Irina Blok  
+- **Curiosidades** — Nomes das versões Android baseados em doces  
+- **Vídeo** — Conteúdo multimídia sobre o mascote  
+- **Outros Detalhes** — Extras sobre o sistema e seu visual
+
+---
 
 ## Funcionalidades
 
-- **Design Responsivo**: O site se adapta a diferentes tamanhos de tela, oferecendo uma boa experiência tanto em dispositivos móveis quanto em desktop.
-- **Navegação Simples**: O menu de navegação permite o acesso rápido a diferentes seções do site, como notícias e curiosidades.
-- **Links Externos**: O artigo contém links para fontes externas que detalham mais sobre a criação do mascote e a história do Android.
+- Design adaptável para **mobile e desktop**  
+- **Navegação simples** e intuitiva por seções  
+- **Links externos** com informações complementares  
+- Layout leve e educativo para fins didáticos
 
-## Como Usar
+---
 
-1. Clone este repositório para sua máquina local.
-   
-   ```bash
-   git clone https://github.com/yuyukiin/projeto-android.git
+## Possíveis Melhorias Futuras
+
+- Versão em React ou framework moderno  
+- Inclusão de animações com JavaScript  
+- Dark mode e tema dinâmico  
+- Tradução multilíngue
+
+---
+
+Desenvolvido por **Yuri Alexander**  
+[GitHub](https://github.com/yuyukiin) • [LinkedIn](https://linkedin.com/in/yuri_costa)
+
+---
+
